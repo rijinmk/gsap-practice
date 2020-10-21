@@ -1,0 +1,2 @@
+# gsap-practice
+Practicing GSAP
